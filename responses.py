@@ -10,4 +10,4 @@ def handle_response(message) -> str:
     if p_message == '!help':
         return "'This is a help message that you can modify.'"
     
-    return "你到底在說甚麼呀:skull: "
+    return "I can't understand what you are saying:skull: "
